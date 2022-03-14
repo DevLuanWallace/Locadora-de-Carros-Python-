@@ -1,0 +1,9 @@
+Nome: Luan Wallace
+Idade: 23
+Tem Experiencia: sim
+CPF: 123
+Reservas:
+LAMBORGHINI HURACAN
+139.5
+AUDI A1
+112.5
